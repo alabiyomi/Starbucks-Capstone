@@ -2,7 +2,7 @@
 
 This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
 
-## Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
+## Starbucks Capstone Project
 
 ### 1. Installations
 This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
@@ -38,12 +38,6 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 
 
 The resulting solution will be that best model would be able to determine which customers would respond.
-
-
-
-
-
-
 
 
 ### 3. File Descriptions
