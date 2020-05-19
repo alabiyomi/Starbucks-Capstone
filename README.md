@@ -68,4 +68,4 @@ transcript.json - 306534 rows, 4 columns. e
   time (int) - time in hours since start of test. The data begins at time t=0
   value - (dict of strings) - either an offer id or transaction amount depending on the record
 
-
+github link : https://github.com/alabiyomi/Starbucks-Capstone
