@@ -69,3 +69,4 @@ transcript.json - 306534 rows, 4 columns. e
   value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 github link : https://github.com/alabiyomi/Starbucks-Capstone
+medium link: https://medium.com/@a.abayomialabi/starbucks-capstone-project-8a712ac71cf2
